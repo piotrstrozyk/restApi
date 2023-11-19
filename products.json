@@ -1,0 +1,13 @@
+[
+    {"name":"Apple","price":161,"description":"fruit","amount":1,"measure":"unit"},
+    {"name":"Banana","price":546,"description":"fruit","amount":1,"measure":"unit"},
+    {"name":"Apple phone","price":86,"description":"phone","amount":1,"measure":"unit"},
+    {"name":"Sword","price":43,"description":"weapon","amount":1,"measure":"unit"},
+    {"name":"Flour","price":46,"description":"baking component","amount":25,"measure":"kg"},
+    {"name":"Baking powder","price":565,"description":"baking component","amount":2,"measure":"grams"},
+    {"name":"Liver","price":6,"description":"organ donation","amount":1,"measure":"unit"},
+    {"name":"Pig bone","price":2,"description":"dog food","amount":48,"measure":"unit"},
+    {"name":"Lamp","price":33,"description":"lighting equipment","amount":111,"measure":"unit"},
+    {"name":"Speaker","price":267,"description":"sound equipment","amount":55,"measure":"unit"},
+    {"name":"Water","price":25,"description":"H2O","amount":100,"measure":"liter"}
+]
